@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name" : "Kibin",
+    "email" : "ohkibin@gmail.com",
+    "url" : "https://www.github.com/kibin/"
+  },
+  "credits" : {
+    "name" : "You Died",
+    "url" : "https://www.github.com/kibin/you-died"
+  },
+  "comments": "You are dead",
+  "rootDocument": "index.html",
+  "created": "2016-02-05",
+  "identifier": "YouDied",
+  "version": 1,
+  "modified": "2016-02-05",
+  "name": "YouDied"
+}
